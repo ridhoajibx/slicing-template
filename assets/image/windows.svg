@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="48" height="48" viewBox="0 0 172 172" style=" fill:#000000;">
+	<g transform="">
+		<g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal">
+			<path d="M0,172v-172h172v172z" fill="none">
+			</path>
+			<g fill="#ffffff">
+				<path d="M10.75,140.0209v-51.8709h60.2v60.0065z">
+				</path>
+				<path d="M68.8,90.3v55.3969l-55.9,-7.5551v-47.8418h55.9M73.1,86h-64.5v55.9l64.5,8.7161v-64.6161z">
+				</path>
+				<path d="M79.55,149.3175v-61.1675h86v72.7904z">
+				</path>
+				<path d="M163.4,90.3v68.1808l-81.7,-11.0424v-57.1384h81.7M167.7,86h-90.3v65.1966l90.3,12.2034v-77.4z">
+				</path>
+				<g>
+					<path d="M10.75,79.55v-51.8709l60.2,-8.1356v60.0065z">
+					</path>
+					<path d="M68.8,22.0031v55.3969h-55.9v-47.8418l55.9,-7.5551M73.1,17.0839l-64.5,8.7161v55.9h64.5v-64.6161z">
+					</path>
+				</g>
+				<g>
+					<path d="M79.55,79.55v-61.1675l86,-11.6229v72.7904z">
+					</path>
+					<path d="M163.4,9.2192v68.1808h-81.7v-57.1384l81.7,-11.0424M167.7,4.3l-90.3,12.2034v65.1966h90.3v-77.4z">
+					</path>
+				</g>
+			</g>
+			<path d="" fill="none">
+			</path>
+			<path d="" fill="none">
+			</path>
+			<path d="" fill="none">
+			</path>
+		</g>
+	</g>
+</svg>

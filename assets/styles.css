@@ -286,12 +286,14 @@ img.round-full {
 img.video-thumb {
     position: relative;
     z-index: 1;
-    max-height: 350px;
+    /* width: 100%; */
+    max-height: 300px;
 }
 
 img.image-slide {
     position: relative;
     z-index: 1;
+    /* width: 90%; */
     max-height: 300px;
 }
 
@@ -299,6 +301,7 @@ img.image-slide-left {
     position: absolute;
     top: 30px;
     left: 0;
+    /* width: 70%; */
     max-height: 200px;
 }
 
@@ -306,6 +309,7 @@ img.image-slide-right {
     position: absolute;
     top: 30px;
     right: 0;
+    /* width: 70%; */
     max-height: 200px;
 }
 
@@ -314,14 +318,14 @@ img.image-slide-right {
         position: absolute;
         top: 45px;
         left: -5px;
-        width: 70%;
+        /* width: 70%; */
         max-height: 250px;
     }
     img.image-slide-right {
         position: absolute;
         top: 45px;
         right: -5px;
-        width: 70%;
+        /* width: 70%; */
         max-height: 250px;
     }
 }

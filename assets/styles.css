@@ -286,7 +286,7 @@ img.round-full {
 img.video-thumb {
     position: relative;
     z-index: 1;
-    /* width: 100%; */
+    width: auto;
     max-height: 300px;
 }
 
